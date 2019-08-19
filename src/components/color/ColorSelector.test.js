@@ -2,8 +2,8 @@ import React from 'react';
 import { shallow } from 'enzyme';
 import ColorSelector from './ColorSelector';
 
-describe('TextSelector component', () => {
-  it('renders TextSelector', () => {
+describe('ColorSelector component', () => {
+  it('renders ColorSelector', () => {
     const wrapper = shallow(<ColorSelector
       addColor={() => {}} />);
     expect(wrapper).toMatchSnapshot();
