@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextSelector component renders TextSelector 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <span>
+    Change font color 
+  </span>
+  <input
+    type="color"
+  />
+  <span>
+    Change background color
+  </span>
+  <input
+    type="color"
+  />
+  <button>
+    Click
+  </button>
+</form>
+`;

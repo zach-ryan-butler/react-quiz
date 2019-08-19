@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextSelector component renders TextSelector 1`] = `
+<section
+  style={
+    Object {
+      "backgroundColor": "red",
+      "height": "100px",
+      "width": "100px",
+    }
+  }
+>
+  <p
+    style={
+      Object {
+        "color": "red",
+      }
+    }
+  >
+    Zach Butler
+  </p>
+</section>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextSelector component renders TextSelector 1`] = `
+<section>
+  <input
+    onChange={[Function]}
+    placeholder="Full Name"
+    value="Zach Butler"
+  />
+</section>
+`;
